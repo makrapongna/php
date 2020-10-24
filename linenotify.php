@@ -1,6 +1,6 @@
  <?php 
     define('LINE_API',"https://notify-api.line.me/api/notify");
-    define('LINE_TOKEN',"D2Ps2VvpF2HYXfMqtOq4xnbsk6LHdIYXx0hWzvNVaKX");
+    define('LINE_TOKEN',"");
 
 
     $header = "Testing Line Notify";
