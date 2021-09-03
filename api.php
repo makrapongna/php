@@ -8,7 +8,7 @@ $message = 'โค้ดที่ส่งไป';
 
 function sendlinemesg() {
     define('HOST',"https://notify-api.line.me/api/notify");
-    define('KEY',"D2Ps2VvpF2HYXfMqtOq4xnbsk6LHdIYXx0hWzvNVaKX");
+    define('KEY',"ใส่ token");
 
     function notify_message($message) {
         $queryData = array('hcode' => $message);
